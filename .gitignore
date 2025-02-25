@@ -1,6 +1,6 @@
-array/livecodingReduce.js
-array/localCompare.js
-array/map.js
-array/reduce.js
-array/someEvery.js
-array/sort.js
+livecodingReduce.js
+localCompare.js
+map.js
+reduce.js
+someEvery.js
+sort.js
